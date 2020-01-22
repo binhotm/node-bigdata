@@ -1,0 +1,9 @@
+{
+  "name": "node-bigdata",
+  "version": "0.1.a",
+  "description": "Um projeto node + bigdata, we can do this!!",
+  "main": "index.js",
+  "repository": "https://github.com/binhotm/node-bigdata.git",
+  "author": "Fabricio Jr Silva",
+  "license": "MIT"
+}
