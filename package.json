@@ -1,9 +1,20 @@
 {
   "name": "node-bigdata",
-  "version": "0.1.a",
+  "version": "1.0.0",
   "description": "Um projeto node + bigdata, we can do this!!",
   "main": "index.js",
   "repository": "https://github.com/binhotm/node-bigdata.git",
   "author": "Fabricio Jr Silva",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1"
+  }
 }
